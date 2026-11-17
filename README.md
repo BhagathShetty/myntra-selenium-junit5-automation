@@ -1,8 +1,12 @@
 # End-to-End Web Automation of Myntra using Selenium, JUnit 5 & Formal QA Techniques
 
-**Course:** Software Testing & Quality Assurance (ISE2501) – CA3
-**Target application:** Myntra – https://www.myntra.com
-**Team:** Student A – *Automation Architect & Framework Engineer* | Student B – *Test Designer & White-Box Specialist*
+Course: Software Testing & Quality Assurance (ISE2501) 
+Target application: Myntra – https://www.myntra.com
+
+Team:
+
+1. Brindha Yadav R K – Automation Architect & Framework Engineer 
+2. C S Bhagath Shetty – Test Designer & White-Box Specialist
 (Fill in: names, USNs, section)
 
 ## 1. What this project does
@@ -105,7 +109,3 @@ Eclipse: right-click `src/main/java/com/ise/myntra/demo/LiveDemo.java` → Run A
 ## 8. Demo
 `docs/demo.mp4` (or `.gif`) – screen recording of a full run. *(add before submitting)*
 
-## 9. Contribution split
-| Student A | Student B |
-|---|---|
-| pom.xml, WebDriver lifecycle, cross-browser, Page Objects, waits, reports | ECP/BVA tables, CFG, V(G), basis paths, CSV data, parameterized tests, defect log |
